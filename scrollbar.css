@@ -60,3 +60,38 @@ margin-right: 40px;
 #radio4:checkd ~ .first{
 	margin-left: -75%;
 }
+
+.navigatio-auto div{
+	border: 2px solid #20a6ff;
+	padding: 5px;
+	border-radius: 10px;
+	cursor: pointer;
+	transition: 1s;
+}
+
+.navigatio-auto{
+	position: absolute;
+	width: 800px;
+	margin: 360px;
+	display: flex;
+	justify-content: center;
+}
+
+.navigatio-auto div:not(:last-child){
+	margin-right:40px;
+}
+
+#radio1:checked ~ .navigatio-auto .auto-btn1{
+	background-color: #fff;
+}
+#radio2:checked ~ .navigatio-auto .auto-btn2{
+	background-color: #fff;
+}
+#radio3:checked ~ .navigatio-auto .auto-btn3{
+	background-color: #fff;
+}
+#radio4:checked ~ .navigatio-auto .auto-btn4{
+	background-color: #fff;
+}
+
+
