@@ -15,7 +15,7 @@ body{
 }
 
 .slides input{
-	
+	display:none;
 }
 
 .slide{
