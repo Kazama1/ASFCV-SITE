@@ -22,7 +22,10 @@ display: none;
 	position: relative;
 }
 
-
+.slide img{
+	width: 800px;
+	
+}
 
 .manual-navigation{
 	position: absolute;
@@ -49,13 +52,13 @@ margin-right: 40px;
 #radio1:checkd ~ .first{
 	margin-left: 0;
 }
-#radio2:checkd ~ .first{
+#radio2:checkd {
 	margin-left: -25%;
 }
-#radio3:checkd ~ .first{
+#radio3:checkd{
 	margin-left: -50%;
 }
-#radio4:checkd ~ .first{
+#radio4:checkd{
 	margin-left: -75%;
 }
 
