@@ -2,7 +2,7 @@
 	margin: 0 auto;
 	width: 800px;
 	height: 400px;
-	
+	overflow: hidden;
 }
 .slides{
 	width: 400%;
@@ -21,13 +21,13 @@
 
 .slide img{
 	width: 800px;
-	
 }
 
 .manual-navigation{
 	position: absolute;
 	width: 800px;
 	margin-top: -40px;
+	display: flex;
 	justify-content: center;
 }
 .manual-btn{
