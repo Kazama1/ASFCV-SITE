@@ -2,9 +2,12 @@ body{
 	background-image: url(background.jpeg);
 	background-repeat: no-repeat;
 	background-size: 100px;
+	background-attachment: fixed;
 }
 
 .areaprincipal{
 	width: 70%;
 	margin: 0 auto;
+	
+
 }
