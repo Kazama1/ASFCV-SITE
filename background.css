@@ -1,7 +1,8 @@
 body{
 	background-image: url(background.jpeg);
 	
-	background-size: 100px;background-repeat: no-repeat;
+	background-size: 100px;
+	background-repeat: no-repeat;
 	background-attachment: fixed;
 }
 
