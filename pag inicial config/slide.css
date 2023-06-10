@@ -4,13 +4,13 @@
 	height: 400px;
 	overflow: hidden;
 }
-.slides1{
+.slidesEquipe{
 	width: 400%;
 	height: 400px;
 	display: flex;
 }
 
-.slides1 input{
+.slidesEquipe input{
 	display:none;
 }
 
@@ -20,7 +20,7 @@
 	transition: 2s;
 }
 
-.slideslide img{
+.slidesEquipe img{
 	width: 800px;
 }
 
