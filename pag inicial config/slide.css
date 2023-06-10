@@ -56,9 +56,6 @@ margin-right: 40px;
 #radio3:checked ~ .first{
 	margin-left: -50%;
 }
-#radio4:checked ~ .first{
-	margin-left: -75%;
-}
 
 .navigatio-auto div{
 	border: 2px solid #20a6ff;
@@ -87,8 +84,5 @@ margin-right: 40px;
 	background-color: #fff;
 }
 #radio3:checked ~ .navigatio-auto .auto-btn3{
-	background-color: #fff;
-}
-#radio4:checked ~ .navigatio-auto .auto-btn4{
 	background-color: #fff;
 }
