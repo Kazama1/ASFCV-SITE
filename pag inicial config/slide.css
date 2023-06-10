@@ -54,7 +54,7 @@ margin-right: 40px;
 	margin-left: -30%;
 }
 #radio3:checked ~ .first{
-	margin-left: -70%;
+	margin-left: -50%;
 }
 
 .navigatio-auto div{
