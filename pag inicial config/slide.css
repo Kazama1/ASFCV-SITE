@@ -14,13 +14,13 @@
 	display:none;
 }
 
-.slide1{
+.slide{
 	width: 25%;
 	position: relative;
 	transition: 2s;
 }
 
-.slide1 img{
+.slide img{
 	width: 800px;
 }
 
