@@ -51,10 +51,10 @@ margin-right: 40px;
 	margin-left: 0;
 }
 #radio2:checked ~ .first{
-	margin-left: -70%;
+	margin-left: -30%;
 }
 #radio3:checked ~ .first{
-	margin-left: -80%;
+	margin-left: -50%;
 }
 
 .navigatio-auto div{
